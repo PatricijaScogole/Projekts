@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color: #FDD4EA;
+} 
+ul{
+  position: absolute;
+  left: 80%;
+}
+li {
+  display: inline;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.holtwood {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+}

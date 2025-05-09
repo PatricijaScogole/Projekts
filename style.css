@@ -7,3 +7,34 @@ background-color: #FDD4EA;
 } 
 li {
   display: inline;
+}
+ul{
+  position: absolute;
+  left: 70%;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.holtwood {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.lalezar-regular {
+  font-family: "Lalezar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.lekton-regular {
+  font-family: "Lekton", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+#flex-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+
